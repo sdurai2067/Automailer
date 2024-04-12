@@ -1,0 +1,13 @@
+HI ${NAME},
+
+We  are ectited to announce our new products-${PRODUCT_NAME}!.
+This innovative solution is designed to  ${PRODUCT_BENEFIT}.Hope
+you find intersting in it ,${PRODUCT_NAME}  highly recommented for the 
+good progress in healthy & eco friendly nature.you can find our produt by
+
+PRODUCT LINK: ${PRODUCT_LINK}
+
+Verify the brochure for more insights.
+
+Best regards,
+MARKETING TEAM.

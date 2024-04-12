@@ -1,0 +1,15 @@
+HI ${NAME},
+
+We are pleased to provide your examination report for the recently conducted assessments. 
+Below are your scores in subject wise:
+
+- Digital Marketing: ${DM}
+- Network Security: ${NS}
+- Cloud Computing: ${CC}
+- Environment and Impact Assessment: ${ESIA}
+- Ethics and Artificial Intelligence: ${EAI}
+
+Your total score is ${TOTAL}.
+
+Best Regards,
+[EMAILTEAM].

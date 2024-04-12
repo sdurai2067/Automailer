@@ -1,0 +1,8 @@
+Dear ${NAME},
+       We are pleased to inform you that your application has been successfully verified. Aslo we glad to 
+ informing you that your profile is shortlisted  for the position of *${POSITION}* in our company. 
+ Your interview  date is scheduled for ${START_DATE}.
+ Please review the attached documents for further details.
+
+Best Regards,
+HR Team
