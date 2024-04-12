@@ -1,4 +1,5 @@
 Autoemailer README
+  GENERALLY ITS IS CUSTOMEMAILS SENDED TO RECIPIENTS USING AUTOMATIC EMAIL SENDING IN PYTHON.
 Steps to Use:
 1. Download Python:
 Make sure you have Python installed on your computer. You can download it from python.org.
